@@ -13,12 +13,32 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="![image](https://github.com/user-attachments/assets/41b7f89f-817e-408a-8eba-ca3aab0b2c26)
-" Swidth="100px;" alt=""/><br /><sub><b>FE 팀장 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-     <tr/>
+      <td align="center">
+        <a href="">
+          <img src="https://github.com/user-attachments/assets/41b7f89f-817e-408a-8eba-ca3aab0b2c26" width="100px;" alt=""/><br />
+          <sub><b>FE 팀장 : </b></sub>
+        </a><br />
+      </td>
+      <td align="center">
+        <a href="">
+          <img src="" width="100px;" alt=""/><br />
+          <sub><b>FE 팀원 : </b></sub>
+        </a><br />
+      </td>
+      <td align="center">
+        <a href="">
+          <img src="" width="100px;" alt=""/><br />
+          <sub><b>FE 팀원 : </b></sub>
+        </a><br />
+      </td>
+      <td align="center">
+        <a href="">
+          <img src="" width="100px;" alt=""/><br />
+          <sub><b>FE 팀원 : </b></sub>
+        </a><br />
+      </td>
+    <tr/>
     </tr>
   </tbody>
 </table>
+

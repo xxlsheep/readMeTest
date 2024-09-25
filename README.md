@@ -28,13 +28,7 @@ S# BilyeoCho - 빌려줘
       <td align="center">
         <a href="https://github.com/HeyJunN">
           <img src="https://github.com/user-attachments/assets/dde32e60-2a25-4874-85f1-ac946a69068a" width="100px;" alt=""/><br />
-          <sub><b>FE 팀원 : 준서 영어이름</b></sub>
-        </a><br />
-      </td>
-      <td align="center">
-        <a href="">
-          <img src="" width="100px;" alt=""/><br />
-          <sub><b>FE 팀원 : </b></sub>
+          <sub><b>FE 팀장이자 팀원 : 준서 영어이름</b></sub>
         </a><br />
       </td>
     <tr/>

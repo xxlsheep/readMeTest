@@ -1,4 +1,4 @@
-# BilyeoCho - 빌려줘
+S# BilyeoCho - 빌려줘
 
 # 소개
 
@@ -14,20 +14,21 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="">
+        <a href="https://github.com/Sungw0o">
           <img src="https://github.com/user-attachments/assets/41b7f89f-817e-408a-8eba-ca3aab0b2c26" width="100px;" alt=""/><br />
           <sub><b>FE 팀장 : </b></sub>
         </a><br />
       </td>
       <td align="center">
-        <a href="">
-          <img src="" width="100px;" alt=""/><br />
-          <sub><b>FE 팀원 : </b></sub>
+        <a href="https://github.com/xxlsheep">
+          <img src="https://github.com/user-attachments/assets/96b3992e-4f0d-48e4-bbc6-4b6ef1259ba2" width="100px;" alt=""/><br />
+          <sub><b>FE 팀원 : Taeyang Kim</b></sub>
         </a><br />
       </td>
       <td align="center">
-        <a href="">
-          <img src="" width="100px;" alt=""/><br />
+        <a href="https://github.com/HeyJunN">
+          <img src="https://github.com/user-attachments/assets/7181957f-b63a-4611-9e53-038d20d811a4
+" width="100px;" alt=""/><br />
           <sub><b>FE 팀원 : </b></sub>
         </a><br />
       </td>

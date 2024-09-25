@@ -40,7 +40,7 @@
 </p>
 
 
-## 팀원
+## 👯‍♂️팀원
 <div style="overflow: hidden;">
   <table>
     <tbody>

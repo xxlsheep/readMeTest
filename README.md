@@ -9,6 +9,7 @@
 
 ### 개발환경
 
+
 ### ⚒️기술스택
 
 #### Frontend Tech Stack
@@ -29,7 +30,7 @@
 
 
 
-# 팀원
+### 팀원
 <div style="overflow: hidden;">
   <table>
     <tbody>

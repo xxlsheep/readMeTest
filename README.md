@@ -19,6 +19,7 @@
 ![image](https://github.com/user-attachments/assets/35dc8a9f-3596-4126-a6ec-a0cbcb8d6d39)
 
 ## 📆 프로젝트 기간
+![image](https://github.com/user-attachments/assets/cae32301-888b-42fe-9b47-2d0907c10660)
 
 
 

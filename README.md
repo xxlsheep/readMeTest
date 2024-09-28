@@ -20,9 +20,7 @@
 
 
 ## 📆 프로젝트 기간
-![image](https://github.com/user-attachments/assets/cae32301-888b-42fe-9b47-2d0907c10660)
-
-
+<img src="https://github.com/user-attachments/assets/cae32301-888b-42fe-9b47-2d0907c10660" width="400"/>
 
 ## ⚒️ 기술스택
 

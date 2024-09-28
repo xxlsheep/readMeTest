@@ -36,13 +36,8 @@
 ## 🗂️ ERD
 <img src="https://github.com/user-attachments/assets/a3b11e41-52c6-48c8-8db4-deb8c8d761d5" width="700"/>
 
-## 🎨 디자인
-
-추후 추가
-
 ## 📆 프로젝트 기간
 <img src="https://github.com/user-attachments/assets/cae32301-888b-42fe-9b47-2d0907c10660" width="700"/>
-
 
 ## ⚒️ 기술스택
 

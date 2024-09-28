@@ -16,7 +16,8 @@
 3. 지속적인 시스템 개선 : 사용자들로부터 받은 피드백을 분석하여 시스템을 지속적으로 개선해 사용자들의 만족도를 높이는 것이 목표
 
 ## 🗂️ ERD
-![image](https://github.com/user-attachments/assets/35dc8a9f-3596-4126-a6ec-a0cbcb8d6d39)
+![image](https://github.com/user-attachments/assets/a3b11e41-52c6-48c8-8db4-deb8c8d761d5)
+
 
 ## 📆 프로젝트 기간
 ![image](https://github.com/user-attachments/assets/cae32301-888b-42fe-9b47-2d0907c10660)
